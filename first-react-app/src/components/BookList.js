@@ -7,7 +7,7 @@ const BookList = () => {
     return (
 
       <div className="bookLists" >
-        <h1>My Book List </h1>
+        <h1>Book Store </h1>
         <Book/>
         <Book/>  
         <Book/>  

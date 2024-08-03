@@ -11,8 +11,8 @@ const Book = () => {
 
       <div className="bookDetails">
         <h2>The Harry Potter</h2>
-        <p>By Jems John</p>
-        <p>$200</p>
+        <p>By John Doe</p>
+        <p>$100</p>
         <button className="cardBtn">Add to Card</button>
       </div>
     </div>

@@ -1,0 +1,9 @@
+ 
+.submitBtn
+{
+    padding: 10px 20px;
+   background-color: orange;
+   color: white;
+   border-radius: 5px;
+   font-weight: bold;
+}

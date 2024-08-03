@@ -1,0 +1,22 @@
+/* Book Cards  */
+
+
+.books
+{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+}
+
+.bookDetails
+{
+    flex: 1;
+}
+
+.cardBtn
+{
+   padding: 10px 20px;
+   background-color: crimson;
+   color: white;
+   border-radius: 5px;
+}

@@ -1,0 +1,33 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+ 
+.main-header{
+    background-color: crimson;
+     
+}
+
+header{
+    
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+nav a{
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+ #logo {
+    width: 100px;
+}
+ 
+ 
+ 

@@ -8,7 +8,7 @@ const BookList = () => {
 
       <div className="bookLists" >
         <h1>Book Store </h1>
-        <hr>
+         <hr>
         <Book/>
         <Book/>  
         <Book/>  
